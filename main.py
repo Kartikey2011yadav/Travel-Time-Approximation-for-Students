@@ -1,5 +1,3 @@
-
-
 import customtkinter
 import os
 
